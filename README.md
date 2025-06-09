@@ -1,2 +1,2 @@
-# COOPERCOINS Website
-Sitio oficial de CooperCoins. Desarrollado con GitHub Pages y despliegue automático.
+# CooperCoins Site
+Sitio oficial de CooperCoins con soporte multilenguaje, airdrop, NFTs y más.

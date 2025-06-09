@@ -1,4 +1,4 @@
 #!/bin/bash
 git add .
-git commit -m "Actualización automática"
-git push origin main
+git commit -m "Actualización CooperCoins"
+git push
