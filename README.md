@@ -1,2 +1,2 @@
-# CooperCoins Site
-Sitio oficial de CooperCoins con soporte multilenguaje, airdrop, NFTs y más.
+# CooperCoins Website v2
+Sitio completo con multilenguaje, airdrop, NFTs, conexión Web3...

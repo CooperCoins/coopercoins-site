@@ -1,4 +1,2 @@
 #!/bin/bash
-git add .
-git commit -m "Actualización CooperCoins"
-git push
+git add . && git commit -m 'Deploy' && git push

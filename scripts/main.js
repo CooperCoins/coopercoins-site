@@ -1,0 +1,1 @@
+// Script para cambiar idioma dinámicamente, cuenta regresiva, etc.
